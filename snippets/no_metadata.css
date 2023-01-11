@@ -1,0 +1,8 @@
+
+/*
+Removes the YAML metadata box in previex mode
+*/
+
+.frontmatter-container {
+    display: none;
+}

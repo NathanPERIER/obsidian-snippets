@@ -1,0 +1,8 @@
+/*
+Reduces the padding at the top of the page in preview mode
+*/
+
+.markdown-preview-view {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}

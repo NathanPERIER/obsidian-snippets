@@ -1,0 +1,10 @@
+
+/*
+Applies the monospace font everywhere in the source view
+*/
+
+.markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-source-view { 
+	font-family: var(--font-monospace);
+}
+

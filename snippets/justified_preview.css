@@ -1,0 +1,18 @@
+
+/*
+Changes the text alignment to justified in preview mode
+*/
+
+.markdown-preview-view {
+    text-align: justify;
+}
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+	text-align: left;
+}
+
